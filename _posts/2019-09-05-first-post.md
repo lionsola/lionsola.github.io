@@ -3,6 +3,7 @@ layout: post
 title:  "First post!"
 date:   2019-09-05 17:07:00 +0700
 categories: anh blog
+author: Anh
 ---
 The idea of this blog happened more than one year ago. My wife and I, back when we were still dating, ate out together very regularly. During our `gastronomic` journey we came across some very good restaurants and we would come back from time to time and use as benchmarks to "rate" other places. We also had quite a few not-so-good memories, and likewise those are set in stone as examples of places-we-should-never-return to. However, one thing was similar about both kinds of experience - for days we would talk about them, crack inside jokes and rehearse our glorious expeditions to our friends. One day, after a particularly, hilariously bad meal, a thought just came to us: let's start a blog together, so we can write down stories like these, re-read them after some time and even share them with our friends. My then-girlfriend enjoyed writing and had written some short stories before, especially in school, and I had always had things I would like to put down but never found the right time nor the right place to. Why not?
 
