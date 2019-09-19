@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {{ content }}
+    {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+    <ul>
+      {% for year in postsByYear %}
+      <div class="separator-year">
+          <h2>{{ year.name }}</h2>
+        </div>
+        {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+
+        {% for month in postsByMonth %}
+          <div class="separator-month">
+            <h3>{{ month.name }}</h3>
+          </div>
+          {% for post in month.items %}
+            <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}-{{ post.date }}</a></li>
+          {% endfor %}
+
+        {% endfor %}
+      {% endfor %}
+    </ul>
+  </body>
+</html>
