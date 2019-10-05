@@ -13,36 +13,8 @@ I suspect many topics mentioned here will show up later, and when the time comes
 
 # Quyen
 
-Quyen's self-written bio will go here.
+I’m one to live in retrospect. If my life could be made into a movie, it would be a montage of repetitive footages. Extremely happy ones. Sad ones. Rainy days. Driving around at night. Sipping on hot coffee latte. Scent of a certain brand of detergent. Embraces. Music with a heavy bass sound. Quotes from a random Luu Quang Vu poem or a Haruki Murakami novel. I’m also one to dwell in spontaneity. Sometimes I sing or hum an entire made-up song. Sometimes I cry uncontrollably imagining myself going through the miseries in a stranger’s life. But sometimes I am an empty jar – shake me and you will not hear a single sound.
 
-.
+When my Sola told me about a sharing a blog I couldn’t figure out exactly what I would write.  My thoughts are impatient entities – they come and go in different forms. They fight often, too. To hold them together requires an emotion powerful enough to suppress them – which, most of the time, means sadness. But I don’t want to brew another bitter pot of gloom - it’s funny considering how many times you can recycle a handful of those dried leaves. In contrast, there’s this millennial thing called “infused water” in which the taste of fresh fruit is so faint it makes you frown and laugh at the same time. I guess the healthy happy little thoughts can only leave so much impact. We’ll have to work harder on this – we’ll have to cut smaller pieces and fill the jar with as much as we could gather.
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
+So here it is, I guess, the beginning of the collection. Footages, clippings, fruit chunks – whatever – I’m putting them here. I hope that someday, when we look back at this composition, we’ll find ourselves in a pleasant surprise that there’s more to sip on than what we remember. I hope there will be a taste to it. And I hope there will be a consistency to it.
