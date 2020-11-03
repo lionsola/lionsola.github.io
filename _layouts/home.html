@@ -17,34 +17,32 @@ layout: default
         {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
         <ul class="article-list">
           {% for year in postsByYear %}
-            <div class="separator-year">
-              <h2>{{ year.name }}</h2>
-              {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-              
-              {% for month in postsByMonth %}
-                {% if forloop.first == true %}
-              <h3>{{ month.name }}</h3>
-            </div>
-                {% else %}
-              <div class="separator-month">
-                <h3>{{ month.name }}</h3>
-              </div>
-                {% endif %}
+          <div class="separator-year">
+            <h2>{{ year.name }}</h2>
+            {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+            
+            {% for month in postsByMonth %}
+              {% if forloop.first == true %}
+            <h3>{{ month.name }}</h3>
+          </div>
+              {% else %}
+          <div class="separator-month">
+            <h3>{{ month.name }}</h3>
+          </div>
+              {% endif %}
 
               {% for post in month.items %}
-              <li>
-                <a href="{{ post.url }}" title="{{ post.title }}" class="article">
-                  <span>{{ post.title }}</span>
-                  <span>{{ post.date | date: '%d'}}</span>
-                </a>
-              </li>
+          <li>
+            <a href="{{ post.url }}" title="{{ post.title }}" class="article">
+              <span>{{ post.title }}</span>
+              <span>{{ post.date | date: '%d'}}</span>
+            </a>
+          </li>
               {% endfor %}
-              {% endfor %}
-            </div>
+            {% endfor %}
           {% endfor %}
         </ul>
-      {% endif %}
-            
+      {% endif %}   
     </div>
   </body>
 </html>
